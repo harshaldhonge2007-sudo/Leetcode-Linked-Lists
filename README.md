@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -20,10 +21,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
