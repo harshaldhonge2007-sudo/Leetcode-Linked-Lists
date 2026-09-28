@@ -10,27 +10,57 @@
  */
 class Solution {
 public:
+
     ListNode* sortList(ListNode* head) {
-        vector<int> values;
-        ListNode* curr = head;
 
-        while (curr != nullptr) {
-            values.push_back(curr->val);
+        if (head == nullptr || head->next == nullptr)
+            return head;
+
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        // Find middle
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        // Split
+        ListNode* right = slow->next;
+        slow->next = nullptr;
+
+        // Sort both halves
+        ListNode* left = sortList(head);
+        right = sortList(right);
+
+        // Merge
+        return merge(left, right);
+    }
+
+    ListNode* merge(ListNode* left, ListNode* right) {
+
+        ListNode dummy(0);
+        ListNode* curr = &dummy;
+
+        while (left != nullptr && right != nullptr) {
+
+            if (left->val <= right->val) {
+                curr->next = left;
+                left = left->next;
+            }
+            else {
+                curr->next = right;
+                right = right->next;
+            }
+
             curr = curr->next;
         }
 
-        curr = head;
+        if (left != nullptr)
+            curr->next = left;
+        else
+            curr->next = right;
 
-        sort(values.begin(), values.end());
-
-        int ind = 0;
-
-        while (curr != nullptr) {
-            curr->val = values[ind];
-            ind++;
-            curr = curr->next;
-        }
-
-        return head;
+        return dummy.next;
     }
 };
