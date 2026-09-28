@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
