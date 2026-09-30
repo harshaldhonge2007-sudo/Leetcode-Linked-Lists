@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0148-sort-list/) | Medium |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -59,5 +61,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0148-sort-list/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
