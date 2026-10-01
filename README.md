@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0148-sort-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0203-remove-linked-list-elements](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
