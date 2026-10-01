@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
