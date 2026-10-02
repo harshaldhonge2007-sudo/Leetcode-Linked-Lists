@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Math
@@ -83,4 +84,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshaldhonge2007-sudo/Leetcode-Linked-Lists/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
